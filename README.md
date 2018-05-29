@@ -1,2 +1,1 @@
-# minesweeper_codecademy
 # minesweeper
